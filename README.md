@@ -17,7 +17,7 @@ https://docs.unity3d.com/Manual/overriding-android-manifest.html
 
 # Installing the apk
 If you wish just to install the apk you can find it at releases\
-https://github.com/Niter88/Ultimate_Unity-AAR_Plugin/releases/tag/MainRelease
+https://github.com/Niter88/Ultimate_Unity-AAR_Plugin/releases
 
 # Instructions on editing
 Clone the repo\
